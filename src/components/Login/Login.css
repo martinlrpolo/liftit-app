@@ -1,0 +1,8 @@
+.container{
+    margin-top: 100px;
+}
+
+.bg-login-image{
+    background-image: url('https://images.pexels.com/photos/443383/pexels-photo-443383.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=700')  !important;
+    background-position: center !important;
+}
